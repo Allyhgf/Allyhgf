@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/Allyhgf?logo=github&style=for-the-b
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://ejs.co" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_ejs_icon_130626.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffile-type-ejs%2F130626&tbnid=5dAvAOBzEw04rM&vet=12ahUKEwjynbPGu-j5AhWcGbkGHXUDBLoQMygAegUIARCRAQ..i&docid=bxDQoZzoTVVvDM&w=512&h=512&q=EJS%20icon&hl=en&client=opera-gx&ved=2ahUKEwjynbPGu-j5AhWcGbkGHXUDBLoQMygAegUIARCRAQ width="36" height="36" alt="EJS" /></a>
+<a href="https://ejs.co" target="_blank" rel="noreferrer"><img src=![download](https://user-images.githubusercontent.com/108592772/187054721-2b4b5605-2586-49ea-9c1f-add874d5cb88.png)" width="36" height="36" alt="EJS" /></a>
 </p>
 
 ### Badges
