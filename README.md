@@ -8,7 +8,7 @@
 
 Atualmente terminando o Ensino Médio no colégio Seculo, em João Pessoa<br/>
 
-Eu sou desenvolvedor full stack, focado em JavaScript/TypeScript, Node.JS e Express, React.JS e MongoDB.
+Desenvolvedor full stack, focado em JavaScript/TypeScript, Node.JS e Express, React.JS e MongoDB.
 
 
 </p>
