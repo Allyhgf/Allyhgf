@@ -1,7 +1,7 @@
 Hi 👋 My name is Allyson Hansel
 ===============================
 
-Software Engineer | Full Stack Developer
+Software Engineer | Web and Mobile Developer
 ----------------------------------------
 
 In 2019 I started attending a programming/robotics course and it was love at first sight. Stopped in 2020 due to pandemics and got back to studying just in the first months of 2022. Always trying to learn new things and discover new horizons to work from.
