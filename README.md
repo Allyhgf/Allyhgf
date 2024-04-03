@@ -1,12 +1,12 @@
-Hi 👋 My name is Allyson Hansel
+Hi! I'm Allyson 👋
 ===============================
 
 Software Engineer | Web and Mobile Developer
 ----------------------------------------
 
-In 2019 I started attending a programming/robotics course and it was love at first sight. Stopped in 2020 due to pandemics and got back to studying just in the first months of 2022. Always trying to learn new things and discover new horizons to work from.
+In 2019 I started attending a programming/robotics course and it was love at first sight. Stopped in 2020 due to pandemics and got back to studying just in the first months of 2022. Always trying to learn new things and discover new horizons to work from. I'm now enrolled on a brazilian Computer Science major and still thriving to learn more technologies and extend my knowledge as a software engineer.
 
-* 🌍  I'm based in João Pessoa, PB | Brazil
+* 🌍  Right now I'm in João Pessoa, PB | Brazil
 * ✉️  You can contact me at [allyhansel.dev@gmail.com](mailto:allyhansel.dev@gmail.com)
 * 🧠  I'm currently learning Mobile Development, focused on Kotlin
 
